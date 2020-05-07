@@ -1,4 +1,5 @@
-# node-with-prolog
-Docker image of node with prolog
+# Node with prolog
+
+Docker images with node and prolog
 
 - `8`, `latest` [(8/Dockerfile)](8/Dockerfile)

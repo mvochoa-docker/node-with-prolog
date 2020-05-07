@@ -1,5 +1,5 @@
 FROM node:8
-MAINTAINER mario@mvochoa.com
+LABEL maintainer="mario@mvochoa.com"
 
 ENV LANG C.UTF-8
 
